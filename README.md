@@ -49,7 +49,7 @@
 >
 > Replace _REPLACE_ME_ with your webhook in **_config.js_**
 >
-> Run **_build.bat_** and wait for **_liliandorker-win.exe_** to be built.
+> Run **_build.exe_** and wait for **_liliandorker-win.exe_** to be built.
 >
 > Note: Changing the icon does not work and will corrupt the exe
 
