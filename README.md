@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-  Telegram server: https://t.me/turcoflex
-  Discord server: https://discord.gg/xTsJReFG84 joinnew discord
+  Telegram server: https://t.me/adamm_12222
  </p>
 
 ## 🌐 〢 Content
