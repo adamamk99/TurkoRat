@@ -12,11 +12,7 @@
   </kbd>
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/github/last-commit/cryst4linqq/TurkoRat?style=flat">
-<img src="https://img.shields.io/github/stars/cryst4linqq/TurkoRat?color=brightgreen">
-<img src="https://img.shields.io/github/forks/cryst4linqq/TurkoRat?color=brightgreen">
-</p>
+
 
 <p align="center">
   Telegram server: https://t.me/adamm_12222
